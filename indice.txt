@@ -1,6 +1,9 @@
 			ÍNDICE
 
 ●	Capítulo 0: Introducción a entornos de desarrollo.
+		.0.1. What
+		.0.2. Why
+		.0.3. Where
 ●	Capítulo 1: Repositorios de Código
 ●	Capítulo 2: UML
 ●	Capítulo 3: Gestión de ramas
