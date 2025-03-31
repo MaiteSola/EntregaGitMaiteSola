@@ -1,6 +1,9 @@
 			ÍNDICE
 
 ●	Capítulo 0: Introducción a entornos de desarrollo.
+		.0.1. What
+		.0.2. Why
+		.0.3. Where
 ●	Capítulo 1: Repositorios de Código
 		-Prueba de añadido
 ●	Capítulo 2: UML
